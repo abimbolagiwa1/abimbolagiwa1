@@ -1,0 +1,5 @@
+- I am Abimbola Giwa, a Data Analyst from Nigeria
+- Proficient in Excel, Power Bi and SQL
+- Business Management background with over 10 years of experience
+- Transitioned into tech in July 2023
+- Loves working with numbers and learning new skills
